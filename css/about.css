@@ -556,6 +556,20 @@ margin: -15px 15px 0 0;
     z-index: 900;
     border-radius: 25px;
 }
+#chandler{
+    background-image: url("../img/history/chan.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /*border-radius:100px;*/
+    height: 250px;
+}
+#chandler:hover {
+    background-image: url("../img/history/utd.png");
+    background-size: contain;
+    z-index: 900;
+    border-radius: 25px;
+}
 
 #lastrowspacerbecauseimlazy {
     margin-left: 12%;
@@ -565,3 +579,4 @@ margin: -15px 15px 0 0;
 #rightlastrowspacerbecauseimlazy {
     margin-right: 10%
 }
+
