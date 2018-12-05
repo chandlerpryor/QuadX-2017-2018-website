@@ -326,6 +326,9 @@ ul.side-nav.fixed li.active {
 #larger-p {
     font-size: 18px;
 }
+#smaller-p {
+    font-size: 12px;
+}
 #black-stroke {
     -webkit-text-stroke: 0.5px black;
 }
