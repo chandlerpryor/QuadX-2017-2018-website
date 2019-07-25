@@ -570,7 +570,34 @@ margin: -15px 15px 0 0;
     z-index: 900;
     border-radius: 25px;
 }
-
+#alex{
+    background-image: url("../img/history/cookieMonster.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /*border-radius:100px;*/
+    height: 250px;
+}
+#alex:hover {
+    background-image: url("../img/history/uta.png");
+    background-size: contain;
+    z-index: 900;
+    border-radius: 25px;
+}
+#kiyan{
+    background-image: url("../img/history/cookieMonster.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /*border-radius:100px;*/
+    height: 250px;
+}
+#kiyan:hover {
+    background-image: url("../img/history/uta.png");
+    background-size: contain;
+    z-index: 900;
+    border-radius: 25px;
+}
 #lastrowspacerbecauseimlazy {
     margin-left: 12%;
     margin-right: 12%;
