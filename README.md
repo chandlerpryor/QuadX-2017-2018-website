@@ -1,2 +1,3 @@
-# 2016teamquadx
-Second design for the team website of FTC Team 6299 QuadX
+Official Website for QuadX 6299, FIRST FTC Robotics. 
+[Check out our page here!](https://teamquadx.org)
+
